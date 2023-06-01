@@ -1,6 +1,6 @@
 # KTP2017 Game 🌟
 
-<br/>
+<br/> 
 
 **KTP2017** is a Minecraft game developed for Spigot 1.8.9, leveraging the powerful OctaneAPI game functions. The use of the OctaneAPI allows for cleaner and more streamlined code, as the main game functions are handled by the API. KTP2017 is a simple yet highly enjoyable game that offers fast-paced rounds and intense competition.
 
