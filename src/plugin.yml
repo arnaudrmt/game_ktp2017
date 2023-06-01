@@ -1,0 +1,6 @@
+name: KTP2017
+version: ALPHA
+main: fr.first92.ktp2017.Ktp
+author: First92
+commands:
+  game:
